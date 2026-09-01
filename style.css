@@ -23,8 +23,11 @@
 
 }
 
-
+.name{
+    color: rgb(250, 246, 246);
+}
 .text{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    
 }
